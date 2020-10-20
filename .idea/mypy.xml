@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MypyConfigService">
+    <option name="customMypyPath" value="$USER_HOME$/anaconda3/envs/telegram-bot/bin/mypy" />
+  </component>
+</project>
