@@ -1,7 +1,7 @@
 # telegram-bot
 This repo contains an implementation of the Telegram bot that uses Datanews API.
 
-Be sure to check out the article on how all this works:
+Be sure to check out the article on how all this works: https://datanews.io/blog/building-telegram-news-bot-2020
 
 ## Installation
 ```
